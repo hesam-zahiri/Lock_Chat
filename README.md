@@ -1,4 +1,4 @@
 # Using hack.chat
 
 Experience secure chat!
-Your chats are not stored anywhere
+Your chats are not stored anywhere‼️
