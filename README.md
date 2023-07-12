@@ -1,1 +1,4 @@
-# Lock_Chat
+# Using hack.chat
+
+Experience secure chat!
+Your chats are not stored anywhere
